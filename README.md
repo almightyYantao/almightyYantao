@@ -10,9 +10,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-|  卡网   |  博客  |  机场  |
-|  ----  |  ----  |  ----  |
-|[点击直达](https://ka.dandelion-pt.top)|[点击直达](https://blog.dandelion-pt.top)|[点击直达](https://dandelion-pt.top)|
+博客：[点击直达](https://yantao.wiki)
 </div>
 
 ## :heartpulse: 杂七杂八 
